@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "D:\\90_pyVenv\\jngo_001\\Scripts\\python.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+    ],
+    "python.linting.enabled": true
+
+}
